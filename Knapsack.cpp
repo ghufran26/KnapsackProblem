@@ -3,7 +3,7 @@
                                               KnapSack Problem using
                                             Branch and Bound Algorithm
    
-   Purpose                           :   Pick Miximum Benifit Fixed Weight
+   Purpose                           :   Pick Miximum Gain with Fixed capacity Knapsack
                                            
    Formula to Calculate UpperBound   :   ub = v[i] +( W - w)*(v[i+1]/w[i+1])
    
