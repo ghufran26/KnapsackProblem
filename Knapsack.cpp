@@ -1,10 +1,13 @@
 /*                                           
+                                               BS Semester Project
                                               KnapSack Problem using
                                             Branch and Bound Algorithm
    
    Purpose                           :   Pick Miximum Benifit Fixed Weight
                                            
    Formula to Calculate UpperBound   :   ub = v[i] +( W - w)*(v[i+1]/w[i+1])
+   
+   Author: Ghufran Khan
 
 */
 #include<iostream>
