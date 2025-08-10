@@ -43,7 +43,7 @@ int Max(float Knapsack[][5],int end_index)
     return  indexA;   
 }
 /*  This is Main Function */
-main()
+int main()
 {
    float Weight[20],Value[20];
    float Divid[20],Knapsack[30][5];
@@ -231,6 +231,7 @@ main()
                             /*                    Thanks                                     */
                             /*                     ....                                      */
                             /*                      ..                                       */
-   getch();  
+   getch();
+   return 0;
 }
 
